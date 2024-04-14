@@ -25,7 +25,7 @@ fun main() {
         "Have a cupcake!"
     }
 
-    val treatFunction = trickOrTreat(false, { "$it quater" })
+    val treatFunction = trickOrTreat(false, coins)
     /*
     * Trailing lambda syntax
     * val treatFunction = trickOrTreat(false) { "$it quater" }

@@ -16,7 +16,6 @@ import kotlin.reflect.KProperty
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
-        main()
         super.onCreate(savedInstanceState)
         setContent {
             Unit2ChecksTheme {
@@ -34,7 +33,6 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
-    main()
     Text(
         text = "Hello $name!",
         modifier = modifier
