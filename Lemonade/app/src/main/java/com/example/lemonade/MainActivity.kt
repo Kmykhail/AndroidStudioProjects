@@ -60,7 +60,7 @@ fun LemonadeCycle(modifier: Modifier = Modifier) {
         }
         2 -> {
             LemonTextAndImage(
-                stringResource(R.string.Lemon),
+                stringResource(R.string.Lemon).replace("n-times", squeezeNum.toString() + "-times"),
                 painterResource(R.drawable.lemon_squeeze),
                 onClickCalled = {
                     println("squeezeNum is $squeezeNum")
