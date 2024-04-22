@@ -5,6 +5,7 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
+import androidx.annotation.VisibleForTesting
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -164,7 +165,8 @@ fun EditNumberFiled(
     )
 }
 
-private fun calculateTip(amount: Double, tipPercent: Double, roundUp: Boolean = false): String {
+@VisibleForTesting
+internal fun calculateTip(amount: Double, tipPercent: Double, roundUp: Boolean = false): String {
     val tip = tipPercent / 100 * amount
     return NumberFormat.getCurrencyInstance().format(if (roundUp) kotlin.math.ceil(tip) else tip)
 }
