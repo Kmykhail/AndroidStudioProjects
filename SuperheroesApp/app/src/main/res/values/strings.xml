@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SuperheroesApp</string>
+    <string name="andr_sup_1">Nick the Night and Day</string>
+    <string name="andr_sup_1_description">The Jetpack Hero</string>
+    <string name="andr_sup_2">Reality Protector</string>
+    <string name="andr_sup_2_description">Understands the absolute true</string>
+    <string name="andr_sup_3">Andre the Giant</string>
+    <string name="andr_sup_3_description">Mimics the light and night to blend in</string>
+    <string name="andr_sup_4">Benjamin the Brave</string>
+    <string name="andr_sup_4_description">Harnesses the power of canary to develop bravely</string>
+    <string name="andr_sup_5">Magnificient Maru</string>
+    <string name="andr_sup_5_description">Effortlessly glides in to save the day</string>
+    <string name="andr_sup_6">Dynamic Yasmine</string>
+    <string name="andr_sup_6_description">Ability to shift to any form and energize</string>
+</resources>
