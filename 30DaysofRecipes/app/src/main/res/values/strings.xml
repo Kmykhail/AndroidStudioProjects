@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">30 Days of Recipes</string>
+    <string name="borshch">Borshch</string>
+    <string name="borshch_description">
+        Borshch (sometimes written as borsch, borsht, or borshch) is a sour soup with distinctive red colour.
+        Usually, the ingredients are meat, beetroots, cabbage, carrots, onions, potatoes, and tomatoes.
+        It is traditionally done with smetana (sour cream), pampushky (tiny garlic buns), garlic, onion, and salo (pork lard).
+    </string>
+    <string name="varenyky">Varenyky</string>
+    <string name="varenyky_description">
+        Varenyky are made of dough and different fillings, such as meat, potatoes, mushrooms, vegetables, fruits, cheese, or berries.
+        Their fillings can be salty or sweet, lean or meaty.
+    </string>
+    <string name="chicken_kyiv">Chicken Kyiv</string>
+    <string name="chicken_kyiv_description">
+        Chicken Kyiv is a chicken filet fried with a piece of butter and herbs inside.
+        It usually is served with mashed potatoes and vegetable salad.
+    </string>
+</resources>
