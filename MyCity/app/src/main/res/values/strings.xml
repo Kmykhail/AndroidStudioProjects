@@ -1,0 +1,80 @@
+<resources>
+    <!--    ScreenTitles-->
+    <string name="app_name">My City</string>
+    <string name="choose_category">Choose category</string>
+    <string name="choose_recommendation">Choose recommendation</string>
+    <string name="recommended_place">%1$s</string>
+
+    <!--    CategoryTitles-->
+    <string name="coffee_house">Coffee houses</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="park">Parks</string>
+    <string name="shopping_center">Shopping centers</string>
+    <string name="view_point">View points</string>
+
+<!--    CoffeeHouse-->
+    <string name="coffee_standard">Coffeeshop Standard</string>
+    <string name="short_info_cf">
+        High-quality equipment, professional water treatment, coffee of our own selection and
+        roasting, years of experience, and most importantly and most valuable - people - this is why
+        standard coffee tastes a little different.
+        \n
+        Black coffee, tea or coffee with milk, filter coffee or espresso - all done by great people
+        and to high standards.
+        Ask us what coffee you will drink today, because we love to share what we are excited about.
+    </string>
+
+    <string name="coffee_12">12 coffee</string>
+    <string name="short_info_12c">
+        A wonderful establishment, food, coffee and tea - everything is done with heart.
+        \n
+        Very pleasant and professional staff.
+    </string>
+
+    <string name="coffee_idealist">IDEALIST COFFEE</string>
+    <string name="short_info_ci">
+        Very tasty and high quality!
+        \n
+        A large selection of coffee beans, there is drip coffee, and the most important thing is that they can grind it for you for any device
+    </string>
+
+    <string name="coffee_takava">TaKava</string>
+    <string name="short_info_ct">
+        Coffee is a craft. Every craft is a mastery. Ours is in this package. Enjoy sloooowly.
+    </string>
+
+<!--    Restaurant-->
+    <string name="restaurant_1">Musafir</string>
+    <string name="short_info_r1">
+        Qırım Tatar Aşları. Crimean Tatar cuisine.
+    </string>
+
+    <string name="restaurant_2">100 rokiv tomu vpered</string>
+    <string name="short_info_r2">
+        Relaxed restaurant on 2 floors serving traditional cuisine with a modern twist, plus cocktails.
+    </string>
+
+    <string name="restaurant_3">Belkin</string>
+    <string name="short_info_r3">
+        Family restaurant with a French atmosphere in the heart of the park
+    </string>
+
+<!--    Park-->
+    <string name="park_1">Askolʹdova Mohyla</string>
+    <string name="short_info_p1"></string>
+
+    <string name="park_2">Park Natalka</string>
+    <string name="short_info_p2">
+        Leafy riverside paths, picnic lawns a paved maze,
+        \n
+        plus sporting facilities such as a soccer field
+    </string>
+
+    <string name="park_3">Holosiivskyi National Natural Park</string>
+    <string name="short_info_p3">
+        Sprawling national park featuring forest steppe landscapes, trails, ponds, playgrounds and eateries.
+    </string>
+
+
+    <string name="DummyName">Dummy</string>
+</resources>
