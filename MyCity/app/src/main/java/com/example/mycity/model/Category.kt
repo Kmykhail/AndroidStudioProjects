@@ -8,9 +8,7 @@ import com.example.mycity.R
 enum class CategoryType(@StringRes val title: Int) {
     COFFEE_HOUSE(title = R.string.coffee_house),
     RESTAURANT(title = R.string.restaurant),
-    PARK(title = R.string.park),
-    SHOPPING_CENTER(title = R.string.shopping_center),
-    VIEW_POINT(title = R.string.view_point)
+    PARK(title = R.string.park)
 }
 
 interface Place {
